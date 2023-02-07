@@ -1,0 +1,15 @@
+C:\Swinburne\COS20007\1.2P\1.2P\bin\Debug\net6.0\1.2P.exe
+C:\Swinburne\COS20007\1.2P\1.2P\bin\Debug\net6.0\1.2P.deps.json
+C:\Swinburne\COS20007\1.2P\1.2P\bin\Debug\net6.0\1.2P.runtimeconfig.json
+C:\Swinburne\COS20007\1.2P\1.2P\bin\Debug\net6.0\1.2P.dll
+C:\Swinburne\COS20007\1.2P\1.2P\bin\Debug\net6.0\1.2P.pdb
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.csproj.AssemblyReference.cache
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.AssemblyInfoInputs.cache
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.AssemblyInfo.cs
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.csproj.CoreCompileInputs.cache
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.dll
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\refint\1.2P.dll
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.pdb
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\1.2P.genruntimeconfig.cache
+C:\Swinburne\COS20007\1.2P\1.2P\obj\Debug\net6.0\ref\1.2P.dll
